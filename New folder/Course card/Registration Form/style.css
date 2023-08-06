@@ -1,0 +1,27 @@
+@font-face {
+    font-family: My font;
+    src: url(../fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: Font;
+    src: url(../fonts/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+
+
+
+h1 {
+    color: #130f40;
+    font-family: My font;
+    font-size: 300%;
+}
+
+* {
+    background-color: #81ecec;
+}
+
+p,
+.box {
+    color: darkblue;
+    font-family: Font;
+}

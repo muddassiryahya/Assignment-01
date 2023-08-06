@@ -1,0 +1,35 @@
+@font-face {
+    font-family: My font;
+    src: url(fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
+    font-family: Font;
+    src: url(fonts/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: New Font;
+    src: url(fonts/Ubuntu-Regular.ttf);
+}
+
+* {
+    background-color: #81ecec;
+}
+
+h1,
+h2,
+h3 {
+    color: #130f40;
+    font-family: My Font;
+}
+
+p {
+    font-family: Font;
+    color: darkblue;
+}
+
+input {
+    color: black;
+    font-family: New Font;
+}
