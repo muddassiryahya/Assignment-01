@@ -1,1 +1,2 @@
-# smit-course
+# Assignment no.01 link
+
