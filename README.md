@@ -1,4 +1,4 @@
-# Assignment no.01 link
+# Portfolio HTML & CSS Assignment link
 
-html-css-assignment-no-01.netlify.app
+https://html-css-assignment-no-01.netlify.app
 
